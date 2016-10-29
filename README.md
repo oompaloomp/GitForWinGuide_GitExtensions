@@ -1,1 +1,1 @@
-# GitForWinGuide_GitExtensions
+# Git в картинках
